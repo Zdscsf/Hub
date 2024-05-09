@@ -1,0 +1,24 @@
+if game.PlaceId == 9285238704 then --Race Clicker
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Race-Cliker/main/Script')))()
+end
+
+if game.PlaceId == 6403373529 then --Slap Battels
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Slap-Battels/main/Script')))()
+end
+
+if game.PlaceId == 142823291 then --Murder Mystery 2
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Murder-Mystery-2/main/Script')))()
+
+end
+
+if game.PlaceId == 3956818381 then --Ninja Legends
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Ninja-Legends/main/Script')))()
+end
+
+if game.PlaceId == 3956818381 then --Build A Boat For Treasure
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Build-A-Boat-For-Treasure/main/Script')))()
+end
+
+if game.PlaceId == 14184086618 then --Obby But Your On A Bike
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-But-Your-On-A-Bike/main/Script')))()
+end
