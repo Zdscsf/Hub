@@ -34,3 +34,7 @@ end
 if game.PlaceId == 12355337193 then --Murderere-Vs-Sheriff-Duels
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Murderere-Vs-Sheriff-Duels/main/Script')))()
 end
+
+if game.PlaceId == 7080389084 then --Obby-of-the-Glass-Bridge
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-of-the-Glass-Bridge/main/Script')))()
+end
