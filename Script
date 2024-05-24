@@ -38,3 +38,7 @@ end
 if game.PlaceId == 7080389084 then --Obby-of-the-Glass-Bridge
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-of-the-Glass-Bridge/main/Script')))()
 end
+
+if game.PlaceId == 13987158269 then --Impossible glass bridge! (Squid Game)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Impossible-glass-bridge-Squid-Game-/main/Script')))()
+end
