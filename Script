@@ -50,3 +50,7 @@ end
 if game.PlaceId == 10449761463 then --Strongest-Battle-Grounds
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Strongest-Battle-Grounds/main/Script')))()
 end
+
+if game.PlaceId == 3351674303 then --Driving Empire
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Driving-Empire/main/Script')))()
+end
