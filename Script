@@ -58,3 +58,7 @@ end
 if game.PlaceId == 286090429 then --Arsenal
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Arsenal/main/Script')))()
 end
+
+if game.PlaceId == 893973440 then --Flee-The-Facility
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Flee-The-Facility/main/Script')))()
+end
