@@ -66,3 +66,7 @@ end
 if game.PlaceId == 292439477 then --Fantom Forces
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Phantom-Forces/main/Script')))()
 end
+
+if game.PlaceId == 1240123653 then --Zombie Attack
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Zombie-Attack/main/Script')))()
+end
