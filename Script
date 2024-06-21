@@ -62,3 +62,7 @@ end
 if game.PlaceId == 893973440 then --Flee-The-Facility
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Flee-The-Facility/main/Script')))()
 end
+
+if game.PlaceId == 292439477 then --Fantom Forces
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Phantom-Forces/main/Script')))()
+end
