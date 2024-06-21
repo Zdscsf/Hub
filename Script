@@ -70,3 +70,8 @@ end
 if game.PlaceId == 1240123653 then --Zombie Attack
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Zombie-Attack/main/Script')))()
 end
+
+if game.PlaceId == 1632210982 then --Zombie Attack
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Zombie-Attack/main/Script')))()
+end
+
