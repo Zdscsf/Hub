@@ -23,9 +23,9 @@ if game.PlaceId == 537413528 then --Build A Boat For Treasure
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Build-A-Boat-For-Treasure/main/Script')))()
 end
 
-if game.PlaceId == 14184086618 then --Obby But Your On A Bike
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-But-Your-On-A-Bike/main/Script')))()
-end
+--if game.PlaceId == 14184086618 or game.PlaceId == 15321952362 then --Obby But Your On A Bike
+--loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-But-Your-On-A-Bike/main/Script')))()
+--end
 
 if game.PlaceId == 11063612131 then --1 Jump Every Seconds
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/1-Jump-Every-Seconds/main/Script')))()
