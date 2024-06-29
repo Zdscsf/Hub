@@ -85,3 +85,7 @@ end
 if game.PlaceId == 621129760 then --Kat
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Kat/main/Script')))()
 end
+
+if game.PlaceId == 10704789056 then --Drive Wolrd
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Drive-Wolrd/main/Script')))()
+end
