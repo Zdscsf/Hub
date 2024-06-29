@@ -1,6 +1,9 @@
 --Anti AFK
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Anti-AFK/main/Script')))()
 
+--WebLink
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/WebLink/main/Script')))()
+
 
 if game.PlaceId == 9285238704 then --Race Clicker
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Race-Cliker/main/Script')))()
