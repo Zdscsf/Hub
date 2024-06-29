@@ -78,3 +78,6 @@ if game.PlaceId == 1632210982 then --Zombie Attack
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Zombie-Attack/main/Script')))()
 end
 
+if game.PlaceId == 4566572536 then --Vehicle Legends [En Français !]
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Vehicle-Legends-In-French-/main/Script')))()
+end
