@@ -89,3 +89,11 @@ end
 if game.PlaceId == 10704789056 then --Drive Wolrd
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Drive-Wolrd/main/Script')))()
 end
+
+if game.PlaceId == 14202073004 then --Unnamed shooter
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
+end
+
+if game.PlaceId == 14940775218 then --FPS Arcade sans portée 2021
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/-FPS-Arcade-sans-port-e-2021-/main/Script')))()
+end
