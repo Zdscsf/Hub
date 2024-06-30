@@ -98,7 +98,7 @@ if game.PlaceId == 17887390746 then --Unnamed shooter Norma
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
 end
 
-if game.PlaceId == l17887392216 then --Unnamed shooter Duel
+if game.PlaceId == 17887392216 then --Unnamed shooter Duel
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
 end
 
