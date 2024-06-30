@@ -90,7 +90,11 @@ if game.PlaceId == 10704789056 then --Drive Wolrd
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Drive-Wolrd/main/Script')))()
 end
 
-if game.PlaceId == 14202073004 or game.PlaceId == 17887390746 then --Unnamed shooter
+if game.PlaceId == 14202073004 then --Unnamed shooter
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
+end
+
+if game.PlaceId == 17887390746 then --Unnamed shooter Normal
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
 end
 
