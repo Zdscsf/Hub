@@ -1,108 +1,151 @@
 --Anti AFK
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Anti-AFK/main/Script')))()
 
---WebLink
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/WebLink/main/Script')))()
+
+if game.PlaceId == 9285238704 then --Race Clicker
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Race-Cliker/main/Script')))()
+
+elseif game.PlaceId == 6403373529 then --Slap Battels
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Slap-Battels/main/Script')))()
+
+elseif game.PlaceId == 142823291 then --Murder Mystery 2
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Murder-Mystery-2/main/Script')))()
+
+elseif game.PlaceId == 3956818381 then --Ninja Legends
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Ninja-Legends/main/Script')))()
+
+elseif game.PlaceId == 537413528 then --Build A Boat For Treasure
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Build-A-Boat-For-Treasure/main/Script')))()
+
+elseif game.PlaceId == 11063612131 then --1 Jump Every Seconds
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---1-Jump-Every-Seconds/main/Script')))()
+
+elseif game.PlaceId == 12355337193 then --Murderere-Vs-Sheriff-Duels
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Murderere-Vs-Sheriff-Duels/main/Script')))()
+
+elseif game.PlaceId == 7080389084 then --Obby-of-the-Glass-Bridge
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Impossible-squid-game-Obby-of-the-Glass-Bridge-/main/Script')))()
+
+elseif game.PlaceId == 13987158269 then --Impossible glass bridge! (Squid Game)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Impossible-glass-bridge-Squid-Game-/main/Script')))()
+
+elseif game.PlaceId == 8328351891 then --Mega Mansion Tycoon
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Mega-Mansion-Tycoon/main/Script')))()
+
+elseif game.PlaceId == 10449761463 then --Strongest-Battle-Grounds
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Strongest-battle-grounds/main/Script')))()
+
+elseif game.PlaceId == 3351674303 then --Driving Empire
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Driving-Empire/main/Script')))()
+
+elseif game.PlaceId == 286090429 then --Arsenal
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Arsenal/main/Script')))()
+
+elseif game.PlaceId == 893973440 then --Flee-The-Facility
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Flee-The-Facility/main/Script')))()
+
+elseif game.PlaceId == 292439477 then --Fantom Forces
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Phantom-Forces/main/Script')))()
+
+elseif game.PlaceId == 1240123653 then --Zombie Attack
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Zombie-Attack/main/Script')))()
+
+elseif game.PlaceId == 1632210982 then --Zombie Attack
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Zombie-Attack/main/Script')))()
+
+elseif game.PlaceId == 4566572536 then --Vehicle Legends [En Français !]
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Vehicle-Legends-In-French-/main/Script')))()
+
+elseif game.PlaceId == 621129760 then --Kat
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Kat/main/Script')))()
+
+elseif game.PlaceId == 10704789056 then --Drive Wolrd
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Drive-Wolrd/main/Script')))()
+
+elseif game.PlaceId == 14202073004 then --Unnamed shooter
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
+
+elseif game.PlaceId == 17887390746 then --Unnamed shooter Norma
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
+
+elseif game.PlaceId == 17887392216 then --Unnamed shooter Duel
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
+
+elseif game.PlaceId == 14940775218 then --FPS Arcade sans portée 2021
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---FPS-Arcade-without-scope-2021-/main/Script')))()
+end--Anti AFK
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Anti-AFK/main/Script')))()
 
 
 if game.PlaceId == 9285238704 then --Race Clicker
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Race-Cliker/main/Script')))()
-end
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Race-Cliker/main/Script')))()
 
-if game.PlaceId == 6403373529 then --Slap Battels
+elseif game.PlaceId == 6403373529 then --Slap Battels
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Slap-Battels/main/Script')))()
-end
 
-if game.PlaceId == 142823291 then --Murder Mystery 2
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Murder-Mystery-2/main/Script')))()
+elseif game.PlaceId == 142823291 then --Murder Mystery 2
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Murder-Mystery-2/main/Script')))()
 
-end
+elseif game.PlaceId == 3956818381 then --Ninja Legends
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Ninja-Legends/main/Script')))()
 
-if game.PlaceId == 3956818381 then --Ninja Legends
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Ninja-Legends/main/Script')))()
-end
+elseif game.PlaceId == 537413528 then --Build A Boat For Treasure
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Build-A-Boat-For-Treasure/main/Script')))()
 
-if game.PlaceId == 537413528 then --Build A Boat For Treasure
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Build-A-Boat-For-Treasure/main/Script')))()
-end
+elseif game.PlaceId == 11063612131 then --1 Jump Every Seconds
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---1-Jump-Every-Seconds/main/Script')))()
 
---if game.PlaceId == 14184086618 or game.PlaceId == 15321952362 then --Obby But Your On A Bike
---loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-But-Your-On-A-Bike/main/Script')))()
---end
+elseif game.PlaceId == 12355337193 then --Murderere-Vs-Sheriff-Duels
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Murderere-Vs-Sheriff-Duels/main/Script')))()
 
-if game.PlaceId == 11063612131 then --1 Jump Every Seconds
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/1-Jump-Every-Seconds/main/Script')))()
-end
+elseif game.PlaceId == 7080389084 then --Obby-of-the-Glass-Bridge
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Impossible-squid-game-Obby-of-the-Glass-Bridge-/main/Script')))()
 
-if game.PlaceId == 12355337193 then --Murderere-Vs-Sheriff-Duels
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Murderere-Vs-Sheriff-Duels/main/Script')))()
-end
+elseif game.PlaceId == 13987158269 then --Impossible glass bridge! (Squid Game)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Impossible-glass-bridge-Squid-Game-/main/Script')))()
 
-if game.PlaceId == 7080389084 then --Obby-of-the-Glass-Bridge
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Obby-of-the-Glass-Bridge/main/Script')))()
-end
+elseif game.PlaceId == 8328351891 then --Mega Mansion Tycoon
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Mega-Mansion-Tycoon/main/Script')))()
 
-if game.PlaceId == 13987158269 then --Impossible glass bridge! (Squid Game)
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Impossible-glass-bridge-Squid-Game-/main/Script')))()
-end
+elseif game.PlaceId == 10449761463 then --Strongest-Battle-Grounds
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Strongest-battle-grounds/main/Script')))()
 
-if game.PlaceId == 8328351891 then --Mega Mansion Tycoon
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Mega-Mansion-Tycoon/main/Script')))()
-end
-
-if game.PlaceId == 10449761463 then --Strongest-Battle-Grounds
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Strongest-Battle-Grounds/main/Script')))()
-end
-
-if game.PlaceId == 3351674303 then --Driving Empire
+elseif game.PlaceId == 3351674303 then --Driving Empire
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Driving-Empire/main/Script')))()
-end
 
-if game.PlaceId == 286090429 then --Arsenal
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Arsenal/main/Script')))()
-end
+elseif game.PlaceId == 286090429 then --Arsenal
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Arsenal/main/Script')))()
 
-if game.PlaceId == 893973440 then --Flee-The-Facility
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Flee-The-Facility/main/Script')))()
-end
+elseif game.PlaceId == 893973440 then --Flee-The-Facility
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Flee-The-Facility/main/Script')))()
 
-if game.PlaceId == 292439477 then --Fantom Forces
+elseif game.PlaceId == 292439477 then --Fantom Forces
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Phantom-Forces/main/Script')))()
-end
 
-if game.PlaceId == 1240123653 then --Zombie Attack
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Zombie-Attack/main/Script')))()
-end
+elseif game.PlaceId == 1240123653 then --Zombie Attack
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Zombie-Attack/main/Script')))()
 
-if game.PlaceId == 1632210982 then --Zombie Attack
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Zombie-Attack/main/Script')))()
-end
+elseif game.PlaceId == 1632210982 then --Zombie Attack
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Zombie-Attack/main/Script')))()
 
-if game.PlaceId == 4566572536 then --Vehicle Legends [En Français !]
+elseif game.PlaceId == 4566572536 then --Vehicle Legends [En Français !]
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Vehicle-Legends-In-French-/main/Script')))()
-end
 
-if game.PlaceId == 621129760 then --Kat
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Kat/main/Script')))()
-end
+elseif game.PlaceId == 621129760 then --Kat
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Kat/main/Script')))()
 
-if game.PlaceId == 10704789056 then --Drive Wolrd
+elseif game.PlaceId == 10704789056 then --Drive Wolrd
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Drive-Wolrd/main/Script')))()
-end
 
-if game.PlaceId == 14202073004 then --Unnamed shooter
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
-end
+elseif game.PlaceId == 14202073004 then --Unnamed shooter
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
 
-if game.PlaceId == 17887390746 then --Unnamed shooter Norma
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
-end
+elseif game.PlaceId == 17887390746 then --Unnamed shooter Norma
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
 
-if game.PlaceId == 17887392216 then --Unnamed shooter Duel
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Unnamed-shooter/main/Script')))()
-end
+elseif game.PlaceId == 17887392216 then --Unnamed shooter Duel
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
 
-
-if game.PlaceId == 14940775218 then --FPS Arcade sans portée 2021
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/-FPS-Arcade-sans-port-e-2021-/main/Script')))()
+elseif game.PlaceId == 14940775218 then --FPS Arcade sans portée 2021
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---FPS-Arcade-without-scope-2021-/main/Script')))()
 end
