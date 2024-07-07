@@ -147,5 +147,6 @@ elseif game.PlaceId == 17887392216 then --Unnamed shooter Duel
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
 
 elseif game.PlaceId == 14940775218 then --FPS Arcade sans portée 2021
+print("Game On")
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---FPS-Arcade-without-scope-2021-/main/Script')))()
 end
