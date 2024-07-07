@@ -6,7 +6,7 @@ if game.PlaceId == 9285238704 then --Race Clicker
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Race-Cliker/main/Script')))()
 
 elseif game.PlaceId == 6403373529 then --Slap Battels
-loadstring(game:HttpGet(('https://github.com/Zdscsf/Protected_whitelist-System---Slap-Battel/blob/main/Script')))()
+loadstring(game:HttpGet(('https://github.com/Zdscsf/Slap-Battels/blob/main/Script')))()
 
 elseif game.PlaceId == 142823291 then --Murder Mystery 2
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Murder-Mystery-2/main/Script')))()
