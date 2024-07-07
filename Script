@@ -6,7 +6,7 @@ if game.PlaceId == 9285238704 then --Race Clicker
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Race-Cliker/main/Script')))()
 
 elseif game.PlaceId == 6403373529 then --Slap Battels
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Slap-Battels/main/Script')))()
+loadstring(game:HttpGet(('https://github.com/Zdscsf/Protected_whitelist-System---Slap-Battel/blob/main/Script')))()
 
 elseif game.PlaceId == 142823291 then --Murder Mystery 2
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Murder-Mystery-2/main/Script')))()
@@ -36,16 +36,13 @@ elseif game.PlaceId == 10449761463 then --Strongest-Battle-Grounds
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Strongest-battle-grounds/main/Script')))()
 
 elseif game.PlaceId == 3351674303 then --Driving Empire
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Driving-Empire/main/Script')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Driving-Empire/main/Script')))()
 
 elseif game.PlaceId == 286090429 then --Arsenal
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Arsenal/main/Script')))()
 
 elseif game.PlaceId == 893973440 then --Flee-The-Facility
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Flee-The-Facility/main/Script')))()
-
-elseif game.PlaceId == 292439477 then --Fantom Forces
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Phantom-Forces/main/Script')))()
 
 elseif game.PlaceId == 1240123653 then --Zombie Attack
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Zombie-Attack/main/Script')))()
@@ -54,13 +51,13 @@ elseif game.PlaceId == 1632210982 then --Zombie Attack
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Zombie-Attack/main/Script')))()
 
 elseif game.PlaceId == 4566572536 then --Vehicle Legends [En Français !]
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Vehicle-Legends-In-French-/main/Script')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Vehicle-Legends/main/Script')))()
 
 elseif game.PlaceId == 621129760 then --Kat
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Kat/main/Script')))()
 
 elseif game.PlaceId == 10704789056 then --Drive Wolrd
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Drive-Wolrd/main/Script')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Drive-World/main/Script')))()
 
 elseif game.PlaceId == 14202073004 then --Unnamed shooter
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Unnamed-shooter/main/Script')))()
