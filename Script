@@ -70,4 +70,7 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whi
 
 elseif game.PlaceId == 14940775218 then --FPS Arcade sans portée 2021
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---FPS-Arcade-without-scope-2021-/main/Script')))()
+
+elseif game.PlaceId == 5104202731 then --Southwest Florida Beta
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Southwest-Florida-Beta/main/Script')))()
 end
