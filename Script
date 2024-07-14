@@ -73,4 +73,7 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whi
 
 elseif game.PlaceId == 5104202731 then --Southwest Florida Beta
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Southwest-Florida-Beta/main/Script')))()
+
+elseif game.PlaceId == 205224386 then --Hide and Seek Extreme
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Hide-and-Seek-Extreme/main/Script')))()
 end
