@@ -88,4 +88,7 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whi
 
 elseif game.PlaceId == 2456553680 then --Silent-Assassin Standar
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Silent-Assassin/main/Script')))()
+
+elseif game.PlaceId == 17390083917 then --Better Music?
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Better-Music/main/Script')))()
 end
