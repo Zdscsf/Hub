@@ -91,4 +91,7 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whi
 
 elseif game.PlaceId == 17390083917 then --Better Music?
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Better-Music/main/Script')))()
+
+elseif game.PlaceId == 11966456877 then --Answer-or-Die
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/Protected_whitelist-System---Answer-Or-Die/main/Script')))()
 end
