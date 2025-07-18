@@ -1,4 +1,4 @@
 --New Hub, this is the new loadstring!
 --Enjoy cheat whith this new one :)
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/ZD_Hub_2025/refs/heads/main/ZD_Hub')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Zdscsf/ZD_Hub_2025/refs/heads/main/ZD_Hub.lua')))()
